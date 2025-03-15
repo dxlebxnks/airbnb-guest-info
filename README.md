@@ -5,7 +5,7 @@ Welcome to your stay! This repository contains all the essential information you
 ## 📖 Table of Contents  
 - [📜 House Rules](house_rules.md)  
 - [🛬 Check-in & Check-out Guide](check_in_out.md)  
-- [📍 Local Guide & Recommendations][local_guide.md](https://www.visitmaryland.org/regions-cities/southern-maryland))  
+- [📍 Local Guide & Recommendations](https://www.visitmaryland.org/regions-cities/southern-maryland))  
 - [🚨 Emergency Contacts](emergency_contacts.md)  
 - [📞 Contact the Host](#contact-the-host)  
 
