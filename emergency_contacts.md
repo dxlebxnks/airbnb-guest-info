@@ -22,26 +22,6 @@ Host Email: dalebanks@gmail.com
 
 Backup Contact: Eleasah Banks - 202-993-3849
 
-🔧 Maintenance & Repairs
-
-Plumber: Mike's Plumbing & Heating - (301) 843-9760
-
-Electrician: Jaffe Electric - (301) 253-3778
-
-HVAC Technician: Hancock Refrigeration Heating & Air - (301) 843-0971
-
-General Handyman: Southern Maryland Handyman Services - (240) 466-1440
-
-🛠 Utility Services
-
-Electric Company: SMECO (Southern Maryland Electric Cooperative) - (888) 440-3311
-
-Water Provider: Charles County Department of Public Works - (301) 609-7400
-
-Gas Provider: Washington Gas - (844) 927-4427
-
-Internet/Cable Provider: FIOS - (800) 837-4966
-
 🚖 Transportation Services
 
 Local Taxi Service: Charles County Cab - (301) 645-0909
@@ -54,8 +34,4 @@ Public Transport Hotline: VanGO Transit - (301) 934-9305
 
 Locksmith: A1 Locksmith Services - (301) 934-4326
 
-Insurance Provider: State Farm - (301) 932-4888
 
-Cleaning Service: Southern Maryland Cleaning Services - (301) 539-2030
-
-Ensure all contacts are updated regularly to maintain efficiency in handling emergencies and guest support.
